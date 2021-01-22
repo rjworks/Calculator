@@ -1,2 +1,2 @@
 # Calculator
-Calculator program written in C++
+Calculator program written in C++ *(My first C++ program)*
